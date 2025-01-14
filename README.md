@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eniola Hannah  
 
-🌟 **Visionary | Tech Enthusiast | Future Innovator**  
+**Tech Enthusiast | Data Scientist | Leader | Tutor**  
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
-### 🌱 My Journey  
+###  My Journey  
 - **Data Analyst in Progress**: Currently developing advanced skills in data analysis and working toward becoming a **Data Scientist**.  
 - **Python Developer**: Proficient in Python programming, with hands-on experience in crafting innovative solutions.  
 - **SQL Expert**: Skilled in writing complex queries and leveraging data analysis tools for impactful insights.  
@@ -21,7 +21,7 @@
 
 ---
 
-### 💡 What I’m Looking For  
+###  What I’m Looking For  
 💞 Open to collaborating on ambitious projects, especially in:  
 - Artificial Intelligence  
 - Data Science  
@@ -30,7 +30,7 @@
 
 ---
 
-### 📫 Connect With Me  
+###  Connect With Me  
 📩 Email: [oladejieniolahannah@gmail.com](mailto:oladejieniolahannah@gmail.com)  
 📩 School Email: [OladejiEniolaHannah@student.adelekeuniversity.edu.ng](mailto:OladejiEniolaHannah@student.adelekeuniversity.edu.ng)  
 
