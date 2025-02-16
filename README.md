@@ -1,20 +1,19 @@
 # 👋 Hello, I'm Eniola Hannah  
 
-**Tech Enthusiast | Data Scientist | Leader | Tutor**  
+**Tech Enthusiast | Data Scientist | Tutor**  
 
 ---
 
 ### 👀 About Me  
 - **Passionate about coding**: Exploring a wide range of programming languages to build cutting-edge solutions.  
 - **Creative Visualizer**: Currently honing my skills in data visualization to present impactful insights.  
-- **Aspiring Changemaker**: Eager to collaborate on groundbreaking projects that could catch **Google's attention**.  
 
 ---
 
 ###  My Journey  
 - **Data Analyst in Progress**: Currently developing advanced skills in data analysis and working toward becoming a **Data Scientist**.  
 - **Python Developer**: Proficient in Python programming, with hands-on experience in crafting innovative solutions.  
-- **SQL Expert**: Skilled in writing complex queries and leveraging data analysis tools for impactful insights.  
+- **SQL Expert**: Skilled in writing queries and leveraging data analysis tools for impactful insights.  
 - **Educational Background**:  
   - Studying **Computer Science** at **Adeleke University**.  
   - Enrolled in **Data Science** at **SQI College of ICT**.  
@@ -22,10 +21,7 @@
 ---
 
 ###  What I’m Looking For  
-💞 Open to collaborating on ambitious projects, especially in:  
-- Artificial Intelligence  
-- Data Science  
-- Machine Learning  
+💞 Open to collaborating on ambitious projects, especially in:
 - Innovative Tech Solutions  
 
 ---
