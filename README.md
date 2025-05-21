@@ -1,6 +1,6 @@
 # 👋 Hello, My name is Eniola Hannah  
 
-**Data Scientist | Data Analyst | Tutor**  
+**🎯 Data Scientist | 📊 Data Analyst | 🎙️ Speaker of impact | 📚 Tutor**  
 
 ---
 
