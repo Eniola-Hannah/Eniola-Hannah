@@ -42,10 +42,14 @@ If you have something exciting in mind — let’s build it together!
   
 ---
 ### 🌐 Let’s Connect
-📩 Email: [oladejieniolahannah@gmail.com](mailto:oladejieniolahannah@gmail.com)  
 💼 Linkedin: [www.linkedin.com/in/eniola-hannah](www.linkedin.com/in/eniola-hannah)
+
 🪩 X: [https://x.com/TheEniolaHannah](https://x.com/TheEniolaHannah)
 
+📩 Email: [oladejieniolahannah@gmail.com](mailto:oladejieniolahannah@gmail.com)  
+
+
+---
 
 ```
 𝑰 𝒂𝒎 𝒏𝒐𝒕 𝒋𝒖𝒔𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒂 𝒄𝒂𝒓𝒆𝒆𝒓 — 𝑰’𝒎 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒂 𝒍𝒆𝒈𝒂𝒄𝒚! 🌍✨
