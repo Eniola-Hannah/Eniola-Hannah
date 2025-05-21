@@ -32,7 +32,8 @@ Outside of work, I value rest, reflection, and faith. I enjoy reading, watching 
 ✨ I love collaborating on projects that:
 - Merge tech with impact
 - Explore AI/ML, data storytelling, or real-world problem solving
-- Involve mentorship, teaching, or community building
+- Involve mentorship, teaching, or community building.
+  
 If you have something exciting in mind — let’s build it together!
 
 ---
