@@ -43,7 +43,7 @@ If you have something exciting in mind — let’s build it together!
   
 ---
 ### 🌐 Let’s Connect
-💼 Linkedin: [www.linkedin.com/in/eniola-hannah](www.linkedin.com/in/eniola-hannah)
+💼 Linkedin: [https://www.linkedin.com/in/eniola-hannah/](https://www.linkedin.com/in/eniola-hannah/)
 
 🪩 X: [https://x.com/TheEniolaHannah](https://x.com/TheEniolaHannah)
 
